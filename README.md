@@ -16,7 +16,7 @@ This project is developed for the UST and provides tools for analyzing 3D point 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone [your-repository-url]
+   git clone https://github.com/hemanth-nagesh/Problem_Statement-2
    ```
 
 2. Install required packages:
@@ -29,7 +29,7 @@ This project is developed for the UST and provides tools for analyzing 3D point 
 
 2. Run the analysis:
    ```bash
-   python shape_analysis.py
+   python PS-2.py
    ```
 
 3. The program will generate:
